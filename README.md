@@ -1,6 +1,5 @@
 # Flutter Bloc Concurrency Demo
 
-![Bloc Concurrency Kraken](assets/kraken.png)
 
 A Flutter application designed to demonstrate and visualize the behavior of **Bloc Concurrency** event transformers.
 
